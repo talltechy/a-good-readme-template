@@ -69,15 +69,17 @@ of conduct, and the process for submitting pull requests to us.
 
 We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
 available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+repository](https://github.com/talltechy/a-good-readme-template/tags).
 
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
+  - **talltechy** - *Maintained and Optimized* -
+    [talltechy](https://github.com/talltechy)
+  - **Billie Thompson** - *Original README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
+[contributors](https://github.com/talltechy/a-good-readme-template/contributors)
 who participated in this project.
 
 ## License
